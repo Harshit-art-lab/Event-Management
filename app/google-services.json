@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622660235947",
+    "project_id": "eventmanagement-b0d75",
+    "storage_bucket": "eventmanagement-b0d75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622660235947:android:754761d0a39b24c3153dee",
+        "android_client_info": {
+          "package_name": "com.eventmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCB9fSriWnL1u47_CUNG5HVKA73hFjw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
